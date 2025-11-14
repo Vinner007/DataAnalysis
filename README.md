@@ -210,6 +210,8 @@ sudo apt-get install python3-tk
 
 Free to use for educational and personal projects.
 
+<div align="center">
+
 ### 👨‍💻 Developed by **Vinner**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Vinner-181717?style=for-the-badge&logo=github)](https://github.com/vinner007)
