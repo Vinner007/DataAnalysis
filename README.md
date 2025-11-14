@@ -210,19 +210,6 @@ sudo apt-get install python3-tk
 
 Free to use for educational and personal projects.
 
-# 🎯 Object Detection - ตรวจจับวัตถุ
-
-> โปรแกรมตรวจจับวัตถุอัจฉริยะด้วย YOLOv8 และ YOLOv11 (State-of-the-Art) สามารถตรวจจับวัตถุได้ 80+ ประเภท แบบ Real-time
-
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
-[![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-00FFFF.svg)](https://github.com/ultralytics/ultralytics)
-[![YOLOv11](https://img.shields.io/badge/YOLOv11-Latest-FF6B6B.svg)](https://github.com/ultralytics/ultralytics)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-
-**👨‍💻 Created by:** [Vinner](https://github.com/vinner007)
-
----
-
 ### 👨‍💻 Developed by **Vinner**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Vinner-181717?style=for-the-badge&logo=github)](https://github.com/vinner007)
